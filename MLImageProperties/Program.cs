@@ -6,7 +6,7 @@ namespace MLImageProperties
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! I am now writing code in GitHub Codespaces... Yea!");
+            Console.WriteLine("Hello World! I am now writing code in GitHub Codespaces... Yea!!");
         }
     }
 }
