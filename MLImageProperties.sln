@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLImageProperties", "MLImageProperties\MLImageProperties.csproj", "{3670EDCA-CF65-4C1D-9ACC-CA374242F07B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLImageProperties", "MLImageProperties\MLImageProperties.csproj", "{3670EDCA-CF65-4C1D-9ACC-CA374242F07B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLImagePropertiesML.ConsoleApp", "MLImagePropertiesML.ConsoleApp\MLImagePropertiesML.ConsoleApp.csproj", "{0EA5BF40-004B-4642-948A-A36EA7815752}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLImagePropertiesML.Model", "MLImageProperties\MLImagePropertiesML.Model.csproj", "{ED98B689-D3D8-499D-AAFE-A47D22D65CB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3670EDCA-CF65-4C1D-9ACC-CA374242F07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3670EDCA-CF65-4C1D-9ACC-CA374242F07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3670EDCA-CF65-4C1D-9ACC-CA374242F07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA5BF40-004B-4642-948A-A36EA7815752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA5BF40-004B-4642-948A-A36EA7815752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA5BF40-004B-4642-948A-A36EA7815752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA5BF40-004B-4642-948A-A36EA7815752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED98B689-D3D8-499D-AAFE-A47D22D65CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED98B689-D3D8-499D-AAFE-A47D22D65CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED98B689-D3D8-499D-AAFE-A47D22D65CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED98B689-D3D8-499D-AAFE-A47D22D65CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
